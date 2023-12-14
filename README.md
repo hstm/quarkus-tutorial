@@ -19,7 +19,7 @@ The application makes use of [Pagila](https://github.com/devrimgunduz/pagila), a
 I used PostgreSQL version 15.5 in this case, but other versions should be fine, too. 
 
 # Class diagram
-![](./diagram.png | width=200)
+![](./diagram.png)
 
 ## Running the application in dev mode
 You can run your application in dev mode that enables live coding using:
